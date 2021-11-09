@@ -37,8 +37,5 @@ public class CarShopMain {
         System.out.println(carShop.carsWithBrand("Toyota").size()); //2
 
         System.out.println(carShop.carsWithBrand("BMW").size()); //0
-
-
-
     }
 }
